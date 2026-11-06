@@ -2,10 +2,10 @@
 
 Copy this template to `cc-lab-YOUR_ID/lab4/README.md` in your own repository. Follow [the instructions](lab4-instruction.md). Put your screenshots in `lab4/images/` with the file names below.
 
-- **Student name:**
-- **Student ID:**
-- **Learner Lab user name:**
-- **Date completed:**
+- **Student name: soth Pichpanha
+- **Student ID: e20221330
+- **Learner Lab user name: sothpichpanha
+- **Date completed: 06-11-2026
 
 ---
 
